@@ -1,0 +1,21 @@
+.botao {
+    border-radius: 0 20px 20px 0;
+    background-color: #ffa216;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: #ff9100;
+}
+
+.cidade {
+    border-radius: 20px 0 0 20px;
+    outline: none;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #fffcfc;
+    font-weight: bold;
+}

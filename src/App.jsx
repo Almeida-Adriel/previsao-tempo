@@ -92,7 +92,7 @@ function App() {
           <button
             className="botao"
             onClick={handleBuscar}
-            style={{ margin: -1, height: '30px' }}
+            style={{ margin: -1, height: '30px', width: '64px' }}
           >
             Buscar
           </button>

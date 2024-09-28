@@ -4,9 +4,7 @@
 
 Este projeto é uma aplicação web de previsão do tempo que utiliza a API OpenWeather para fornecer informações meteorológicas detalhadas. A interface é simples e intuitiva, permitindo ao usuário buscar a previsão do tempo para diferentes localidades e alternar entre Celsius e Fahrenheit. Além disso, exibe a previsão do tempo para os próximos 5 dias com detalhes de temperatura mínima e máxima, condições climáticas e umidade.
 
-<div alig="center">
-  ![Demonstração](./src/imagens/previsão-tempo-img.png)
-</div>
+ ![Demonstração](./src/imagens/previsão-tempo-img.png)
 
 ## Características
 
